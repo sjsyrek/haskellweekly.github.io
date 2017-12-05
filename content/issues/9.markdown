@@ -27,3 +27,7 @@
 -   [Practical examples of using Void](https://stackoverflow.com/questions/38014339/practical-examples-of-using-void)
 
     > So I ask you to provide very practical examples, where usage of Void adds clarity, brevity, genericity to the code.
+    
+-   [Pure Functional Validation in a Nutshell](https://medium.com/blacklane-engineering/pure-functional-validation-64a7885d22ac)
+
+    > Why should you care about typed, functional programming? The data validation example sort of makes the point on its own: if you care about validating the data that users input into your forms, why shouldn’t you care just as much about the data that gets input into your functions?
